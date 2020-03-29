@@ -1,5 +1,5 @@
-class Anthor
+class Author
 
   attr_accessor :name
-  
+
 end
